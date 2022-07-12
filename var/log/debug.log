@@ -1,0 +1,156 @@
+2022/07/12 22:20:15 SELECT *  FROM messages 
+2022/07/12 22:20:15 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:20:15 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:20:15 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:20:15 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:20:15 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:20:27 SELECT *  FROM messages 
+2022/07/12 22:20:27 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:20:27 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:20:27 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:20:27 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:20:27 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:20:30 SELECT *  FROM messages 
+2022/07/12 22:20:30 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:20:30 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:20:30 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:20:30 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:20:30 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:25:57 SELECT *  FROM messages 
+2022/07/12 22:25:57 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:25:57 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:25:57 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:25:57 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:25:57 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:33:47 SELECT *  FROM messages 
+2022/07/12 22:33:47 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:33:47 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:33:47 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:33:47 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:33:47 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:38:23 SELECT *  FROM messages 
+2022/07/12 22:38:23 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:38:23 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:38:23 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:38:23 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:38:23 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:38:44 SELECT *  FROM messages 
+2022/07/12 22:38:44 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:38:44 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:38:44 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:38:44 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:38:44 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:39:22 SELECT *  FROM messages 
+2022/07/12 22:39:22 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:39:22 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:39:22 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:39:22 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:39:22 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:40:57 SELECT *  FROM messages 
+2022/07/12 22:40:57 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:40:57 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:40:57 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:40:57 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:40:57 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:40:57 SELECT *  FROM messages 
+2022/07/12 22:40:58 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:40:58 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:40:58 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:40:58 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:40:58 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:40:59 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:50:15 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:50:33 INSERT INTO messages (name, surname, email, message) VALUES ('Kęstutis', 'Šukys', 'pramuskribas@gmail.com', 'Noriu kazko')
+2022/07/12 22:50:33 Location: http://localhost/pamokos/oop2/pub/index.php/
+2022/07/12 22:50:35 SELECT *  FROM messages 
+2022/07/12 22:50:35 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:50:35 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:50:35 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:50:35 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:50:35 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:50:35 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 22:50:37 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 22:57:26 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 22:59:14 SELECT *  FROM messages 
+2022/07/12 22:59:14 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:59:14 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 22:59:14 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 22:59:14 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 22:59:14 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 22:59:14 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 22:59:16 SELECT *  FROM messages  WHERE id="1"
+2022/07/12 22:59:16 DELETE  FROM messages  WHERE id="1"
+2022/07/12 22:59:16 Location: http://localhost/pamokos/oop2/pub/index.php/message/all
+2022/07/12 23:01:12 SELECT *  FROM messages 
+2022/07/12 23:01:12 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 23:01:12 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 23:01:12 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 23:01:12 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:01:12 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:01:13 SELECT *  FROM messages 
+2022/07/12 23:01:13 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 23:01:13 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 23:01:13 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 23:01:13 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:01:13 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:01:14 SELECT *  FROM messages  WHERE id="2"
+2022/07/12 23:01:14 DELETE  FROM messages  WHERE id="2"
+2022/07/12 23:01:15 Location: http://localhost/pamokos/oop2/pub/index.php/message/all
+2022/07/12 23:02:45 SELECT *  FROM messages 
+2022/07/12 23:02:45 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 23:02:45 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 23:02:45 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:02:45 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:02:48 SELECT *  FROM messages  WHERE id="3"
+2022/07/12 23:02:48 DELETE  FROM messages  WHERE id="3"
+2022/07/12 23:02:48 Location: http://localhost/pamokos/oop2/pub/index.php/message/all
+2022/07/12 23:02:50 SELECT *  FROM messages 
+2022/07/12 23:02:50 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 23:02:50 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:02:50 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:05:30 SELECT *  FROM messages 
+2022/07/12 23:05:30 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 23:05:30 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:05:30 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:05:32 SELECT *  FROM messages  WHERE id="4"
+2022/07/12 23:05:32 DELETE  FROM messages  WHERE id="4"
+2022/07/12 23:05:32 Location: http://localhost/pamokos/oop2/pub/index.php/message/all
+2022/07/12 23:05:35 SELECT *  FROM messages 
+2022/07/12 23:05:35 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:05:35 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:05:39 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:05:40 SELECT *  FROM messages 
+2022/07/12 23:05:40 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:05:40 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:07:47 SELECT *  FROM messages 
+2022/07/12 23:07:47 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:07:47 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:07:48 SELECT *  FROM messages  WHERE id="5"
+2022/07/12 23:07:48 DELETE  FROM messages  WHERE id="5"
+2022/07/12 23:07:48 Location: http://localhost/pamokos/oop2/pub/index.php//message/all
+2022/07/12 23:08:09 SELECT *  FROM messages 
+2022/07/12 23:08:09 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:08:15 INSERT INTO messages (name, surname, email, message) VALUES ('Kęstutis', 'Šukys', 'pramuskribas@gmail.com', 'htmtfgdnd')
+2022/07/12 23:08:15 Location: http://localhost/pamokos/oop2/pub/index.php/
+2022/07/12 23:08:17 SELECT *  FROM messages 
+2022/07/12 23:08:17 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:08:17 SELECT *  FROM messages  WHERE id="7"
+2022/07/12 23:08:20 SELECT *  FROM messages  WHERE id="7"
+2022/07/12 23:08:21 SELECT *  FROM messages 
+2022/07/12 23:08:21 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:08:21 SELECT *  FROM messages  WHERE id="7"
+2022/07/12 23:08:23 SELECT *  FROM messages  WHERE id="7"
+2022/07/12 23:08:23 DELETE  FROM messages  WHERE id="7"
+2022/07/12 23:08:23 Location: http://localhost/pamokos/oop2/pub/index.php/
+2022/07/12 23:08:31 SELECT *  FROM messages 
+2022/07/12 23:08:31 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:09:00 INSERT INTO messages (name, surname, email, message) VALUES ('Kęstutis', 'Šukys', 'pramuskribas@gmail.com', 'kjhgfd')
+2022/07/12 23:09:00 Location: http://localhost/pamokos/oop2/pub/index.php/
+2022/07/12 23:09:01 SELECT *  FROM messages 
+2022/07/12 23:09:01 SELECT *  FROM messages  WHERE id="6"
+2022/07/12 23:09:01 SELECT *  FROM messages  WHERE id="8"
+2022/07/12 23:09:03 SELECT *  FROM messages  WHERE id="8"
+2022/07/12 23:09:03 DELETE  FROM messages  WHERE id="8"
+2022/07/12 23:09:03 Location: http://localhost/pamokos/oop2/pub/index.php/records
+2022/07/12 23:09:03 SELECT *  FROM messages 
+2022/07/12 23:09:03 SELECT *  FROM messages  WHERE id="6"
